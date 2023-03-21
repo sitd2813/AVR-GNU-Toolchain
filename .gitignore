@@ -1,0 +1,17 @@
+# Build artifacts
+download/
+build/
+AVR-GNU-Toolchain-*/
+AVR-Binutils-*/
+AVR-GDB-*/
+GMP-*/
+LZMA-*/
+xxHash-*/
+AVR-GCC-*/
+AVR-LibC-*/
+
+# Logs
+build.log
+
+# Visual Studio Code
+.vscode/
