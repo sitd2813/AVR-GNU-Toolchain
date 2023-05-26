@@ -2,7 +2,7 @@
 
 This repository contains a Makefile to build native AVR GNU Toolchain and AVR GNU Toolchain for 64-bit Windows.
 
-| Tool             | Version | Data       |
+| Tool             | Version | Date       |
 |:----------------:|:-------:|:----------:|
 | AVR GNU Binutils | 2.40    | 2023-01-16 |
 | AVR GDB          | 13.1    | 2023-02-19 |
